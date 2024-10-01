@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+h1{color: rgb(71, 153, 51);
+background-color: rgb(178, 230, 173);}
+
+h6{font-familiy: italic;
+font-size: larger;
+font-weight: bold;}
